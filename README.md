@@ -10,14 +10,16 @@ To have a go, there are two gulp tasks:
  - alias
  - relative
 
+These can be accessed through npm scripts to ensure consistent versioning.
+
 To run the working 'relative' test:
 
 ```
-$ gulp relative
+$ npm run relative
 ```
 
 To run the working (but with warnings) 'alias' test:
 
 ```
-$ gulp alias
+$ npm run alias
 ```
