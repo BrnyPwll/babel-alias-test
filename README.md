@@ -9,3 +9,15 @@ To have a go, there are two gulp tasks:
 
  - alias
  - relative
+
+To run the working 'relative' test:
+
+```
+$ gulp relative
+```
+
+To run the working (but with warnings) 'alias' test:
+
+```
+$ gulp alias
+```
